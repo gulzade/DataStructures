@@ -1,4 +1,4 @@
-# DataStructures  //Hashtable tree ımplement
+# DataStructures  //Hashtable tree implement
 
 Java programlama dili ile yazdığım programda Binary Search Tree ve Hash algoritmaları kullanılmaktadır.
 
